@@ -77,3 +77,6 @@ l.cztvcloud.com
 120.238.94.82
 antvlive.ab5c6921.cdnviet.com
 110.153.180.106
+epg.pw
+39.107.120.164
+218.13.170.98
