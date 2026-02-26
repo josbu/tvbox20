@@ -53,3 +53,5 @@ live.ynurl.com
 mgsp-zy2.live.miguvideo.com
 jsmov2.a.yximgs.com
 mgsp-tx2.live.miguvideo.com
+120.238.85.131
+119.32.12.17
