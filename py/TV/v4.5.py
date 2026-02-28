@@ -25,8 +25,8 @@ IPV6_DIR = os.path.join(OUTPUT_DIR, 'ipv6')
 SPEED_LOG = os.path.join(OUTPUT_DIR, 'sort.log')
 
 SPEED_TEST_DURATION = 5
-MAX_WORKERS = 10
-SPEED_THRESHOLD = 110  # 速度阈值，单位KB/s
+MAX_WORKERS = 4
+SPEED_THRESHOLD = 80  # 速度阈值，单位KB/s
 
 # GitHub代理列表
 GITHUB_PROXIES = [
