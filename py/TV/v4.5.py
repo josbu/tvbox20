@@ -30,7 +30,7 @@ SPEED_THRESHOLD = 80  # 速度阈值，单位KB/s
 
 # GitHub代理列表
 GITHUB_PROXIES = [
-    'https://ghproxy.cc/',
+    #'https://ghproxy.cc/',
     'https://gh.ddlc.top/',
     'https://gh-proxy.com/'
 ]
