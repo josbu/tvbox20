@@ -8,7 +8,7 @@ from datetime import datetime
 # ===============================
 # 配置区https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiI%3D
 FOFA_URLS = {
-    "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiI%3&page=1}&page_size=50": "ip.txt",
+    "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiI%3D&page=1}&page_size=50": "ip.txt",
 }
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
