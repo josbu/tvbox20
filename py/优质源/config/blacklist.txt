@@ -72,3 +72,7 @@ play.scrstv.com.cn
 flvhspull2mgsplive.miguvideo.com
 drive.mxmy.net
 118.72.48.240
+116.115.6.103
+mgsp-yx2.live.miguvideo.com
+flvzypull2mgsplive.miguvideo.com
+112.132.10.54
