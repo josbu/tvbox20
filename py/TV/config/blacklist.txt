@@ -471,3 +471,7 @@ ali-m-l.cztv.com:443
 171.38.150.222:9003
 119.91.7.169:2026
 111.8.242.124:9999
+satellitepull.cnr.cn:80
+piccpndali.v.myalicdn.com:443
+139.ye23.vip:80
+flvzypull2mgsplive.miguvideo.com:80
