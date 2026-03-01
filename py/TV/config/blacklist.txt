@@ -475,3 +475,6 @@ satellitepull.cnr.cn:80
 piccpndali.v.myalicdn.com:443
 139.ye23.vip:80
 flvzypull2mgsplive.miguvideo.com:80
+live.dxhmt.cn:9081
+tvcdn.stream3.hndt.com:80
+hzcm-live.media.hugd.com:80
